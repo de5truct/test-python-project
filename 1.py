@@ -1,3 +1,3 @@
-list = [123]
+list = [123,321]
 list.append(3)
 print(list)
